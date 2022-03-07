@@ -1,6 +1,3 @@
-// Load CSS
-import './navbar-side.css';
-
 // Navbar functionality
 
 const openMenu = (e) => {

@@ -1,6 +1,3 @@
-// Load CSS
-import './navbar-expand.css';
-
 // Navbar functionality
 
 const expandMenu = (e) => {

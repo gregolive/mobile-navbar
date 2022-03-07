@@ -1,6 +1,3 @@
-// Load CSS
-import './navbar-tabs.css';
-
 // Navbar functionality
 
 const activateTab = (e) => {
