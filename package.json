@@ -1,6 +1,6 @@
 {
   "name": "@gregolive/mobile-navbar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A set of mobile friendly navbars to dynamically adjust to mobile screens. Choose an expandable navbar, a side drawer, or a tabbed navbar.",
   "main": "index.js",
   "scripts": {
